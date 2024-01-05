@@ -63,3 +63,6 @@ gem 'tzinfo-data'#, platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "devise", "~> 4.9"
 
 gem 'devise-bootstrap-views', '~> 1.0'
+
+# gem to get stock data from iex-cloud account
+gem 'iex-ruby-client'
