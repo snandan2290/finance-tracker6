@@ -93,6 +93,8 @@ GEM
       multipart-post (~> 2)
     faraday-net_http (3.0.2)
     ffi (1.16.3-x64-mingw32)
+    font-awesome-rails (4.7.0.8)
+      railties (>= 3.2, < 8.0)
     globalid (1.1.0)
       activesupport (>= 5.0)
     hashie (5.0.0)
@@ -249,6 +251,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   devise (~> 4.9)
   devise-bootstrap-views (~> 1.0)
+  font-awesome-rails (~> 4.7)
   iex-ruby-client
   jbuilder (~> 2.7)
   pg

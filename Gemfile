@@ -66,3 +66,5 @@ gem 'devise-bootstrap-views', '~> 1.0'
 
 # gem to get stock data from iex-cloud account
 gem 'iex-ruby-client'
+
+gem "font-awesome-rails", "~> 4.7"
